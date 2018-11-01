@@ -19,7 +19,7 @@ tool utility
     - [ ] client
         - [ ] hide on bush
     - [ ] remote code execution
-        - [ ] code execution
+        - [x] code execution
     - [ ] monitoring
         - [ ] process list
         - [ ] screen monitoring
