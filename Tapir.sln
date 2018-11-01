@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapir", "Tapir\Tapir.csproj", "{66964A53-6290-475A-B6D6-7DA45F85E3D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapirTests", "TapirTests\TapirTests.csproj", "{0F3D56A9-60C3-4C86-8168-416FF3A0F7D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66964A53-6290-475A-B6D6-7DA45F85E3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66964A53-6290-475A-B6D6-7DA45F85E3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66964A53-6290-475A-B6D6-7DA45F85E3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3D56A9-60C3-4C86-8168-416FF3A0F7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3D56A9-60C3-4C86-8168-416FF3A0F7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3D56A9-60C3-4C86-8168-416FF3A0F7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3D56A9-60C3-4C86-8168-416FF3A0F7D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
